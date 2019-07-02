@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welkom bij GitHub.
+title: Introductie GitHub
 date: 2019-07-02 13:32:20 +0300
 description: Snelle handleiding en tips&tricks. # Add post description (optional)
 img: danielle-macinnes-IuLgi9PWETU-unsplash.jpg # Add image post (optional)
@@ -8,7 +8,7 @@ fig-caption: # Add figcaption (optional)
 tags: [Aan de slag!]
 ---
 
-## Welkom op de GitHub van het ds. Pierson College
+##GitHub van het ds. Pierson College
 Tijdens de lessen informatica maken we gebruik van GitHub. _''Wat is GitHub?''_ hoor ik je denken.
 GitHub leer je kennen in drie minuten met onderstaande video.
 
