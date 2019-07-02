@@ -8,13 +8,13 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: ds. Pierson College # add your name
 author-img: Pierson_logo_200.png # add your photo
-about-author: Dit is de centrale pagina voor alle activiteiten rondom Webdevelopent en Git, GitHub en GitHub Pages. # add description
+about-author: GitHub Pages. # add description
 social-twitter: Moorlag
 social-github: piersoncollege # add your Github handle
 social-linkedin: Moorlag
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+discus-identifier: # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
