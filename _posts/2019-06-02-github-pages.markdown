@@ -3,7 +3,7 @@ layout: post
 title: GitHub Pages
 date: 2019-06-02 13:32:20 +0300
 description: GitHub Pages, wat is dat?. # Add post description (optional)
-img: patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg # Add image post (optional)
+img: danielle-macinnes-IuLgi9PWETU-unsplash.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Aan de slag!][GitHub][GitHub Pages][Introductie]
 ---
