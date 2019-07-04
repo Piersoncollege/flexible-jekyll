@@ -8,7 +8,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: ds. Pierson College # add your name
 author-img: Pierson_logo_200.png # add your photo
-about-author: GitHub Pages. <br> Werkt iets niet?<br> <a href="(https://github.com/Piersoncollege/flexible-jekyll/issues">Maak dan een issue aan.</a>
+about-author: GitHub Pages. <br> Werkt iets niet?<br> <a href="(/issues">Maak dan een issue aan.</a>
   # add description
 social-twitter: Moorlag
 social-github: piersoncollege # add your Github handle
