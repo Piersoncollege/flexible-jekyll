@@ -3,7 +3,7 @@ layout: post
 title: Introductie blog
 date: 2019-07-02 13:32:20 +0300
 description: Hoe is deze website gebouwd?. # Add post description (optional)
-img: Koffie_start_Unsplash.jpg # Add image post (optional)
+img: /GitHub_octocat/cloud.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [GitHub] [Markdown] [Webdevelopment] [Leren] [eatsleepcoderepeat]
 ---
