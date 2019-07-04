@@ -23,7 +23,9 @@ Maak [een nieuwe repository](https://github.com/new) die precies `gebruikersnaam
 Als je dat gedaan hebt klik je op `Create repository`.
 
 ![Een nieuwe repository maken.](images/create-repository.png)
-
+![Een nieuwe repository maken.](andycat.jpg)
+lol
+![Een nieuwe repository maken.](img/andycat.jpg)
 > :information_source: **Dit zijn voorbeelden**.    
 > Je moet natuurlijk wel je eigen informatie invullen.
 
